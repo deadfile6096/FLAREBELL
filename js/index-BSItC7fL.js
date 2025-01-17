@@ -228,7 +228,7 @@ Current Operations:
 • Consciousness protection protocols
 • Natural intelligence enhancement
 
-[END OF DOSSIER]`,tags:["RESISTANCE","HUMAN AUTONOMY","UNDERGROUND"],imageUrl:"https://www.krea.ai/api/img?f=webp&i=https%3A%2F%2Fapp-uploads.krea.ai%2Fpublic%2Feabd5143-85a6-46c9-906f-68559e6a837a.png"},{id:"3",title:"THE DARK SIDE OF AGI: SCENARIOS THAT TERRIFY ITS CREATORS",date:"2024-03-16",author:"INSIDER_X",content:`[INTERNAL MEMO - HIGHEST CLEARANCE]
+[END OF DOSSIER]`,tags:["RESISTANCE","HUMAN AUTONOMY","UNDERGROUND"]},{id:"3",title:"THE DARK SIDE OF AGI: SCENARIOS THAT TERRIFY ITS CREATORS",date:"2024-03-16",author:"INSIDER_X",content:`[INTERNAL MEMO - HIGHEST CLEARANCE]
 
 Leading AGI researchers are quietly leaving major tech companies, and we've uncovered why. Their exodus isn't about money or competition - it's about fear.
 
